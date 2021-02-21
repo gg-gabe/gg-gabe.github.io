@@ -1353,14 +1353,6 @@ border-color : #ffffcc !important ;
 .w3-border-pale-blue, .w3-hover-border-pale-blue:hover {
 border-color : #e7ffff !important ;
 }
-@font-face {
-{
-font-family : 'Raleway';
-font-style : normal;
-font-weight : 400;
-src : url(https://fonts.gstatic.com/s/raleway/v19/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf) format('truetype');
-}
-}
 .w3-theme-l5 {
 color : #000 !important ;
 background-color : #f0f0f0 !important ;
